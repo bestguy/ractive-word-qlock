@@ -1,3 +1,5 @@
+![Sample](./sample.jpg)
+
 # Web-based word qlock using:
 
 * [Ractive](http://www.ractivejs.org/)
