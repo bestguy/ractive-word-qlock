@@ -66,13 +66,6 @@ Ractive.components.qlock = Ractive.extend({ // jshint ignore:line
       return (m >= 30 && m < 35);
     }
   },
-  oninit() {
-    setInterval(() => {
-      this.set({
-        time: new Date()
-      });
-    }, 3000);
-  },
   template: `
 <pre>
 <led on="true">IT</led>L<led on="true">IS</led>BFAMPM
