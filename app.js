@@ -1,3 +1,5 @@
+'use strict';
+
 let config = require('config');
 let express = require('express');
 let logger = require('morgan');
