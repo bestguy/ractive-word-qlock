@@ -1,0 +1,11 @@
+._*
+.DS_Store
+.DS_Store?
+.idea
+.Spotlight-V100
+.Trashes
+docs
+Gruntfile.js
+Icon?
+node_modules
+public/scripts/bower_components
